@@ -5,5 +5,5 @@
 # igrone directories
 PersonalCopy/
 .ipynb_checkpoints/
-# test/
+test/
 train/

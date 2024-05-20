@@ -6,9 +6,9 @@ dalej mogą znajdować się na pozostawionym obrazie i zwiększone jest ryzyko, 
 (jak to jest w przypadku zdjęć np. 185281.jpg, 188580, 191118, 14242, 15099, 191447, ...).
 4. Niektóre zdjęcia różnią się znacząco od pozostałych (np. 181121, 8720, 13792, 183816, 194203, ...)
 dobrze by było zwrócić uwagę na potencjalne outliery.
-5. Warto by było zbadać rozkład zdjęć ze względu na jasność. Niektóre zdjęcia są znacząco jaśniejsze od pozostałych,
-a ich tło nie jest czarne (np. 215958 w porównaniu do 217917).
 
-6. Proponumeny zrobienie analizy kolorów galaktyk, identyfikacjy najczęściej występujących barw galaktyk
-i analizy wielkości lub ilości galaktyk, na paru wygenerowanych obrazach jest więcej niż jeden obiekt. 
-Dobrze to widać po dodaniu thresholdu. Można by policzyć ilość obiektów i zobaczyć jak się to rozkłada w całym zbiorze.
+5. Warto by było zbadać rozkład zdjęć ze względu na jasność. Niektóre zdjęcia są znacząco jaśniejsze od pozostałych,
+a ich tło nie jest czarne (np. 215958 w porównaniu do 217917). Proponumeny też zrobienie analizy kolorów galaktyk,
+identyfikacjy najczęściej występujących barw galaktyk i analizy wielkości lub ilości galaktyk,
+na paru wygenerowanych obrazach jest więcej niż jeden obiekt. Dobrze to widać po dodaniu thresholdu.
+Można by policzyć ilość obiektów i zobaczyć jak się to rozkłada w całym zbiorze.

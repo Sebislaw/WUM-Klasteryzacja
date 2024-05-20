@@ -2,7 +2,7 @@ Raport walidacyjny 1 dla zespołu 6:
 1. Brak pliku requirements.txt z wersjami użytych bibliotek.
 2. Na podstawie 10000 pierwszych zdjęć stweirdzono, że wszystkie mają ten sam rozmiar, co nie musi być prawdą.
 3. Ucinanie brzegów zdjęć nie wydaje się być dobrym pomysłem. Niechciane obiekty w tle, niebędące galaktykami,
-dalej mogą znajdować się na ociętym obrazie i zwiększane jest ryzyko, że ucięta zostanie część galaktyki
+dalej mogą znajdować się na pozostawionym obrazie i zwiększone jest ryzyko, że ucięta zostanie część galaktyki
 (jak to jest w przypadku zdjęć np. 185281.jpg, 188580, 191118, 14242, 15099, 191447, ...).
 4. Niektóre zdjęcia różnią się znacząco od pozostałych (np. 181121, 8720, 13792, 183816, 194203, ...)
 dobrze by było zwrócić uwagę na potencjalne outliery.

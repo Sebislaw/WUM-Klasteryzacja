@@ -1,0 +1,8 @@
+Raport walidacyjny 2 i 3 dla zespołu 6:
+1. Dalej brakuje pliku requirements.txt z użytymi wersjami bibliotek.
+2. W etapie eksploracji zostały znalezione obrazy, które mają np. większą średnią jasność od innych
+lub mają więcej jednego koloru. Czy na tych zdjęciach metoda bounding boxes też działa?
+3. Można było przetestować większą ilość metod pozyskiwania cech z obrazów.
+4. Podobnie dobrze by było sprawdzić inne algorytmy oprócz KMeans i porównać ze sobą wyniki.
+6. Jakość stworzonych klastrów należałoby zmierzyć za pomocą różnych metryk.
+7. Na plus jest stworzenie biblioteki z funkcjami wykorzystywanymi w różnych notatnikach.
